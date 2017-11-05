@@ -22,6 +22,9 @@ li {
     float: left;
 }
 body{
-	background-origin: #42f4d9;
+	background-color: #42f4c8;
 }
-ul 
+h1{
+	color: #42f4d9;
+	text-align: center;
+}
